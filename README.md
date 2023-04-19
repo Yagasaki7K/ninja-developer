@@ -30,5 +30,5 @@ Jōnin are generally highly experienced and highly skilled shinobi who serve as 
 - ANBU(暗部) / Senior, SR
 ANBU, short for Ansatsu Senjutsu Tokushu Butai (暗殺戦術特殊部隊, literally meaning: Special Assassination and Tactical Squad), are covert operatives of capable ninja that are dispatched by their village leader. 
 
--Kage(影) / Tech Lead, TL or Chief Technology Officer ,CTO
+- Kage(影) / Tech Lead, TL or Chief Technology Officer, CTO
 Kage is a title reserved for the leader of one of the Five Great Shinobi Countries' hidden villages. A Kage oversees the activities of their village, from sending ninja on missions to making the hard decisions regarding the safety of their people.
