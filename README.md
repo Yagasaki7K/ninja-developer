@@ -15,20 +15,14 @@ Finally, both ninjas and developers need to be highly focused on their objective
 
 # And what level of ninja am I?
 
-- Students
-Students are usually those who even started writing code, have no contact with anything, barely created an account on Github and are only in Youtube classes
+**Students (学生)** // Students are usually those who even started writing code, have no contact with anything, barely created an account on Github and are only in Youtube classes
 
-- Genin (下忍) / Trainee
-Genin are the lowest level of ninja and also the ones that display the most difference in power.
+**Genin (下忍) / Trainee** // Genin are the lowest level of ninja and also the ones that display the most difference in power.
 
-- Chuunin (中忍) / Junior, JR.
-Chunin are ninja who are qualified to watch over and guide other ninja. Chunin have reached a level of maturity that primarily consists of leadership skills and tactical prowess.
+**Chuunin (中忍) / Junior, JR.** // Chunin are ninja who are qualified to watch over and guide other ninja. Chunin have reached a level of maturity that primarily consists of leadership skills and tactical prowess.
 
-- Jounin(上忍) / Full, PL
-Jōnin are generally highly experienced and highly skilled shinobi who serve as military captains.
+**Jounin (上忍) / Full, PL** // Jōnin or Jounin are generally highly experienced and highly skilled shinobi who serve as military captains.
 
-- ANBU(暗部) / Senior, SR
-ANBU, short for Ansatsu Senjutsu Tokushu Butai (暗殺戦術特殊部隊, literally meaning: Special Assassination and Tactical Squad), are covert operatives of capable ninja that are dispatched by their village leader. 
+**ANBU (暗部) / Senior, SR** // ANBU, short for Ansatsu Senjutsu Tokushu Butai (暗殺戦術特殊部隊, literally meaning: Special Assassination and Tactical Squad), are covert operatives of capable ninja that are dispatched by their village leader. 
 
-- Kage(影) / Tech Lead, TL or Chief Technology Officer, CTO
-Kage is a title reserved for the leader of one of the Five Great Shinobi Countries' hidden villages. A Kage oversees the activities of their village, from sending ninja on missions to making the hard decisions regarding the safety of their people.
+**Kage(影) / Tech Lead, TL or Chief Technology Officer, CTO** // Kage is a title reserved for the leader of one of the Five Great Shinobi Countries' hidden villages. A Kage oversees the activities of their village, from sending ninja on missions to making the hard decisions regarding the safety of their people.
